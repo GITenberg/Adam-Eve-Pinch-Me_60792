@@ -1,11 +1,16 @@
 _repo: Adam-Eve-Pinch-Me_60792
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60792-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppard, Alfred Edgar (A. E.)
     gutenberg_agent_id: '51145'
     url: http://www.gutenberg.org/2009/agents/51145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60792#Adam-Eve-Pinch-Me
 gutenberg_issued: '2019-11-26'
 gutenberg_type: Text
 identifiers:
